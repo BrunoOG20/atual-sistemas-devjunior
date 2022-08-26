@@ -5,7 +5,7 @@
 Clone o projeto
 
 ```bash
-  git clone https://github.com/BrunoOG20/atual-sistemas-devjuniot.git
+  git clone https://github.com/BrunoOG20/atual-sistemas-devjunior.git
 ```
 
 Instale as dependências
